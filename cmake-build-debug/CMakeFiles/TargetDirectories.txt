@@ -1,0 +1,3 @@
+C:/Users/edinl/CLionProjects/fightclub/cmake-build-debug/CMakeFiles/fightclub.dir
+C:/Users/edinl/CLionProjects/fightclub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edinl/CLionProjects/fightclub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
